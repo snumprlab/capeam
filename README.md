@@ -10,6 +10,12 @@
 <br>
 <a href="https://iccv2023.thecvf.com/"> ICCV 2023 </a>
 
+<p align="center">
+  🏆 <b>Challenge Winners</b> 🏆
+  <br>
+  <a href="https://askforalfred.com/EAI23/">1st Generalist Language Grounding Agents Challenge (CVPRW'23)</a>
+</p>
+
 **CAPEAM** (Context-Aware Planning and Environment-Aware Memory) is an embodied instruction following agent that incorporates semantic context (e.g., appropriate objects to interact with) in a sequence of actions and maintains the changed spatial arrangement and states of interacted objects (e.g., location that the object has been moved to) in inferring the subsequent actions.
 
 We note that our code is largely built upon <a href="https://github.com/soyeonm/FILM">FILM</a>.
