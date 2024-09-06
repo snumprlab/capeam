@@ -3,7 +3,7 @@
 <a href="https://bhkim94.github.io/projects/CAPEAM/"> <b> Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents </b> </a>
 <br>
 <a href="https://bhkim94.github.io/">Byeonghwi Kim</a>,
-<a href="https://wild-reptile-5c4.notion.site/Jinyeon-Kim-s-Portfolio-page-ef855010f6c445488ad6969ed7cda11f?pvs=4">Jinyeon Kim</a>,
+<a href="http://jinyeonkim.notion.site">Jinyeon Kim</a>,
 <a href="https://uyeongkim.github.io/">Yuyeong Kim</a>,
 <a href="https://mch0916.github.io/">Cheolhong Min</a>,
 <a href="http://ppolon.github.io/"> Jonghyun Choi </a>
